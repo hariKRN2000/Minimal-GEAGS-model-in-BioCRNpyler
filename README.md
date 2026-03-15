@@ -1,4 +1,4 @@
-# Minimal Dual-Scale Model of Gene Expression in BioCRNpyler — Chapter Companion
+# Minimal GEAGS Model in BioCRNpyler — Chapter Companion
 
 This repository accompanies the chapter **Gene Expression Across Growth Stages (GEAGS): Modeling Circuit Dynamics in Batch Cultures** in **[BOOK/VOLUME — TBD]**. It provides a small, self-contained notebook demonstrating how to construct and run a minimal dual-scale gene-expression model in **BioCRNpyler**, using a tiny example dataset.
 
